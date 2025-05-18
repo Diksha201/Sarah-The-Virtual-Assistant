@@ -3,6 +3,10 @@
 **Sarah-The-Virtual-Assistant** is a browser-based virtual assistant created using **HTML**, **CSS**, and **JavaScript**. 
 It provides a simple yet interactive user experience, capable of responding to commands, displaying messages, and more.
 
+## 🌐 Live Demo
+
+👉 [Click here to try Sarah online](https://diksha201.github.io/Sarah-The-Virtual-Assistant/)
+
 ## 🚀 Features
 
 - Voice or text command recognition (if applicable)
