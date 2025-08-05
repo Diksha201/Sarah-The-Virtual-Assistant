@@ -1,4 +1,4 @@
-# Sarah - The Virtual Assistant 🧠💬
+# Sarah - The Virtual Assistant 🤖
 
 **Sarah-The-Virtual-Assistant** is a browser-based virtual assistant created using **HTML**, **CSS**, and **JavaScript**. 
 It provides a simple yet interactive user experience, capable of responding to commands, displaying messages, and more.
